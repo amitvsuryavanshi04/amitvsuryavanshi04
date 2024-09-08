@@ -50,7 +50,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <ul>
-  <li>🎓 Pursuing a Bachelor's degree in Electronics and Communication Engineering, graduating in 2025</li>
+  <li>🎓 Currently pursuing a Bachelor's degree in Electronics and Communication Engineering, graduating in 2025</li>
   <li>🎯 Continuously exploring cutting-edge tools and technologies in VLSI Design, Signal Processing, and Communication related fields 💡</li>
 </ul>
 

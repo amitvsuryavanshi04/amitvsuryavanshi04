@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amitvsuryavanshi04&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitvsuryavanshi04&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=amitvsuryavanshi04&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">

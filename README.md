@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitvsuryavanshi04&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitvsuryavanshi04&hide_title=true&hide=prs&show_icons=true&theme=dark" alt="GitHub Stats" />
+
   <img src="https://streak-stats.demolab.com/?user=amitvsuryavanshi04&theme=dark" alt="GitHub Streak Stats" />
 </p>
 

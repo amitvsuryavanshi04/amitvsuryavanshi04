@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Amit Suryavanshi</h1>
-<h3 align="center">Pursuing Electronics & Communication Engineering [2021-2025] </h3>
+<h3 align="center">B.E. in Electronics & Communication Engg. [VTU] [2021-2025] </h3>
+<h4 align="center">Currently under PG Diploma Course in VLSI at IIIT-B [Feb 2025-Aug 2025] </h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=Digital+Electronics+Enthusiast;Verilog+%7C+SystemVerilog+Learner" alt="Dynamic Typing SVG" />

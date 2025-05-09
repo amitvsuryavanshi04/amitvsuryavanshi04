@@ -7,7 +7,7 @@
 <h3 align="center" style="color: #1E2A47;">🚀 Current Work: <a href="https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb" target="_blank" style="color: #4B6B8F; font-weight: bold;">amit_kvlsi_iiitb</a></h3>
 
   This is the repository where I am currently working on my VLSI projects under my PG Diploma course at IIIT-B.  
-  The repo contains various aspects of my academic journey, including advanced digital electronics, digital and analog CMOS, functional verification, system design using Verilog, and more!
+  This repo contains various aspects of my academic journey, including advanced digital electronics, digital and analog CMOS, functional verification, system design using Verilog, and more!
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitvsuryavanshi04&repo=amit_kvlsi_iiitb&theme=dark&show_owner=true" alt="Pinned Repo" />

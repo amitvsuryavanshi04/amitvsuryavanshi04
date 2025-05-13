@@ -34,7 +34,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitvsuryavanshi04&show_icons=true&locale=en&layout=compact&theme=dark&line_height=20" alt="Top Languages" width="400"/>
 </p>
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitvsuryavanshi04&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=1f6feb" width="100%" alt="Contribution Graph"/>
+
+<br/>
 
 ---
 

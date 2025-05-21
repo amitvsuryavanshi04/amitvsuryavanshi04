@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Amit Suryavanshi</h1>
-<h3 align="center">B.E. in Electronics & Communication Engg. [VTU] [2021-2025]</h3>
-<h4 align="center">Currently pursuing PG Diploma in VLSI at IIIT-B [Feb 2025 - Aug 2025]</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=$display(%22Welcome+to+my+GitHub+Profile%22);B.E.+in+Electronics+%26+Communication+Engg.+%5BVTU%5D+%5B2021-2025%5D;Currently+pursuing+PG+Diploma+in+VLSI+at+IIIT-B+%5BFeb+2025+-+present%5D&repeat=false">
+</p>
 
 ---
 
-<h3 align="center" style="color: #1E2A47;">🚀 Current Work: <a href="https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb" target="_blank" style="color: #4B6B8F; font-weight: bold;">amit_kvlsi_iiitb</a></h3>
+<h3 align="center" style="color: #1E2A47;">🚀 Current Work: <a href="https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb" target="_blank" style="color: #4B6B8F; font-weight: bold;">[amit_kvlsi_iiitb]</a></h3>
 
   This is the repository where I am currently working on my VLSI projects under my PG Diploma course at IIIT-B.  
   This repo contains various aspects of my academic journey, including advanced digital electronics, digital and analog CMOS, functional verification, system design using Verilog, and more!

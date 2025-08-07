@@ -21,6 +21,8 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=amitvsuryavanshi04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://wakatime.com/@ab631254-1ee0-4de7-8ca9-875f5ca553a9"><img src="https://wakatime.com/badge/user/ab631254-1ee0-4de7-8ca9-875f5ca553a9.svg" alt="Total time coded since Aug 5 2025" /></a>
+  
 </p>
 
 <p align="center">
@@ -47,6 +49,9 @@
   <a href="mailto:contact.amit.suryavanshi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
+  <a href="mailto:Amit.kvlsi2@iiitb.org">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
+</a>
 </p>
 
 ---
@@ -71,26 +76,16 @@
 
 ### Languages and Tools:
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
+
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.verilog.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/374163/verilog.svg?style=flat-round&logoColor=white" alt="Verilog" width="40" height="40"/>
@@ -98,12 +93,67 @@
   <a href="https://systemverilog.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_systemverilog_icon_130431.png?style=flat-round&logoColor=white" alt="SystemVerilog" width="40" height="40"/>
   </a>
+  <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer">
+  <img src="https://www.accellera.org/images/community/uvm/uvm_logo.png" alt="UVM" width="100" height="40"/>
+</a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
+</a>
+
+
 </p>
 
 ---
 
-### 🚀 About Me:
-- 🎓 **B.E. in Electronics & Communication Engineering** - Expected graduation in 2025
-- 🎯 Passionate about exploring cutting-edge technologies in **VLSI Design**, **Signal Processing**, and **Communication** fields.
-- 🌱 Constantly learning and experimenting with tools and technologies to enhance my understanding and skills in the industry.
 
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
+
+  <h2>🚀 About Me</h2>
+
+  <!-- Education 1 -->
+  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <div style="flex: 1; text-align: left;">
+      🎓 <strong>B.E. in E&C Engineering</strong>
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <a href="https://vtu.ac.in/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Visvesvaraya_Technological_University_logo.png" alt="VTU Logo" height="50" />
+      </a>
+    </div>
+    <div style="flex: 1; text-align: right;">
+      Expected Graduation: <strong>2025</strong>
+    </div>
+  </div>
+
+  <!-- Education 2 -->
+  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <div style="flex: 1; text-align: left;">
+      <strong>PG Diploma Advanced VLSI (K-VLSI)</strong>
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <a href="https://www.iiitb.ac.in/" target="_blank" rel="noreferrer">
+        <img src="https://www.iiitb.ac.in/includefiles/pages/icons/IIITB-logo.jpg" height="60"/>
+      </a>
+    </div>
+    <div style="flex: 1; text-align: right;">
+      Duration: <strong>Feb 2025 - Aug 2025</strong>
+    </div>
+  </div>
+
+  <!-- Passion -->
+  <p>🎯 Passionate about exploring cutting-edge technologies in <strong>VLSI Design</strong>, <strong>Signal Processing</strong>, and <strong>Communication</strong> fields.</p>
+
+  <!-- Learning -->
+  <p>🌱 Constantly learning and experimenting with tools and technologies to enhance my understanding and skills in the industry.</p>
+
+</div>

@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=228B22&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=$display(%22Welcome+to+my+GitHub+Profile%22);B.E.+in+Electronics+%26+Communication+Engg.+%5BVTU%5D+%5B2021-2025%5D;Currently+pursuing+PG+Diploma+in+VLSI+at+IIIT-Bengaluru+%5BFeb+2025+-+present%5D&repeat=false">
 </p>
 
+### 🔄 Latest Commit
+![GitHub last commit](https://img.shields.io/github/last-commit/amitvsuryavanshi04/amit_kvlsi_iiitb?style=for-the-badge&color=228B22)
+ 
 ---
 
 <h3 align="center" style="color: #1E2A47;">🚀 Current Work: <a href="https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb" target="_blank" style="color: #4B6B8F; font-weight: bold;">[amit_kvlsi_iiitb]</a></h3>
